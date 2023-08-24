@@ -1,0 +1,11 @@
+{
+    "name": "konio-dapplist",
+    "version": "1.0.0",
+    "description": "Konio wallet listed dapps",
+    "main": "index.js",
+    "scripts": {
+      "build": "node index.js"
+    },
+    "author": "E-Time"
+  }
+  

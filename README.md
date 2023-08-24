@@ -5,6 +5,7 @@ To list your dapp in the "Dapps" section of the Konio wallet, create a pull requ
 
 ```
 {
+    "id":"test-dapp",
     "icon":"data:image/png;base64,...",
     "name":"Test Dapp",
     "summary":"WalletConnect Test Dapp",

@@ -1,5 +1,5 @@
 # konio-dapplist
-Dapps listed inside Konio
+Dapps listed inside Konio wallet
 
 To list your dapp in the "Dapps" section of the Konio wallet, create a pull request containing a file named "yourprojectname.json". The file should be structured as follows:
 

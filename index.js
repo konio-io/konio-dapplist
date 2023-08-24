@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const inputFolderPath = './';
+const inputFolderPath = './dapps/';
 const outputFolderPath = './';
 
 const files = fs.readdirSync(inputFolderPath).map(fileName => {
@@ -11,7 +11,7 @@ const files = fs.readdirSync(inputFolderPath).map(fileName => {
 const output = {};
 
 for (const file of files) {
-    if (path.extname(file) === '.json' && file !== 'index.json' && file !== 'package.json') {
+    if (path.extname(file) === '.json') {
         const fileData = fs.readFileSync(file);
         const jsonData = JSON.parse(fileData);
         

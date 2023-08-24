@@ -19,4 +19,4 @@ for (const file of files) {
     }
 }
 
-fs.writeFileSync(`${outputFolderPath}/index.json`, JSON.stringify(output));
+fs.writeFileSync(`${outputFolderPath}/index1.json`, JSON.stringify(output));

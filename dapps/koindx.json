@@ -6,5 +6,5 @@
     "description":"KoinDX is a next generation decentralized exchange that leverages the feeless systems of the koinos blockchain.",
     "tags":["dex"],
     "url":"https://koindx.com",
-    "compatible": false
+    "compatible": true
 }

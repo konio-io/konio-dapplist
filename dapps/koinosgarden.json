@@ -1,9 +1,0 @@
-{
-    "id":"koinosgarden",
-    "icon":"https://dapps.konio.io/logos/koinosgarden.png",
-    "name":"Koinos Garden",
-    "summary":"Decentralized capital on Koinos",
-    "description":"Koinos Garden is a collection of 1,000 unique Goat NFTs coexisting on Koinos Blockchain that grant access to an investment DAO.",
-    "url":"https://koinosgarden.netlify.app/",
-    "tags":["mining"]
-}

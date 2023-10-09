@@ -5,6 +5,5 @@
     "summary":"Mining pool",
     "description":"Earn KOIN with very competitive APY. You decide the future of koinos by voting in the governance decisions. You can also contribute to the Sponsors Program and get VAPOR to vote for the projects to fund",
     "url":"https://koinosbox.com/jgapool",
-    "tags":["mining"],
-    "compatible": true
+    "tags":["mining"]
 }

@@ -5,6 +5,5 @@
     "summary":"Poll",
     "description":"A dApp for creating on-chain polls in order to coordinate governance decisions. The dApp is free-to-use, there is no cost to create new polls or vote on them.",
     "url":"https://koinosbox.com/polls",
-    "tags":["poll"],
-    "compatible": true
+    "tags":["poll"]
 }

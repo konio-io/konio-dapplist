@@ -5,6 +5,5 @@
     "summary":"WalletConnect Test Dapp",
     "description":"WalletConnect Koinos SDK Test Dapp. Library to easily interact with WalletConnect compatible Koinos wallets.",
     "tags":[],
-    "url":"https://dapp.konio.io",
-    "compatible": true
+    "url":"https://dapp.konio.io"
 }

@@ -5,6 +5,5 @@
     "summary":"NFT Collection",
     "description":"NFT Collection of Kondor Wallet",
     "url":"https://koinosbox.com/kondor-nft",
-    "tags":["nft"],
-    "compatible": true
+    "tags":["nft"]
 }

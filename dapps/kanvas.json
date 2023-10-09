@@ -4,7 +4,6 @@
     "name":"Kanvas",
     "summary":"Collaborative canvas",
     "description":"The first collaborative and decentralized canvas, based on the first fee-less smart-contract blockchain.",
-    "url":"https://kanvas-app.com/",
-    "tags":["dex"],
-    "compatible": true
+    "url":"https://kanvas-app.com/app/",
+    "tags":["dex"]
 }

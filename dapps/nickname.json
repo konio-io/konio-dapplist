@@ -1,0 +1,9 @@
+{
+    "id":"nickname",
+    "icon":"https://dapps.konio.io/logos/nickname.png",
+    "name":"Nicknames",
+    "summary":"Human readable accounts for Koinos",
+    "description":"Nicknames is a name service for Koinos Blockchain. It's free. Designed for safe transfers and interaction with dApps. Governed by the community to give transparency",
+    "url":"https://koinosbox.com/nicknames",
+    "tags":["name-service"]
+}

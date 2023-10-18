@@ -1,0 +1,9 @@
+{
+    "id":"koincity",
+    "icon":"https://dapps.konio.io/logos/koincity.png",
+    "name":"Koin City",
+    "summary":"Decentralized Exchange",
+    "description":"KoinCity is a crypto platform with a launchpad, decentralized exchange and social chat.",
+    "url":"https://koincity.com/",
+    "tags":["launchpad"]
+}

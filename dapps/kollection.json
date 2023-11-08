@@ -1,0 +1,9 @@
+{
+    "id":"kollection",
+    "icon":"https://dapps.konio.io/logos/kollection.png",
+    "name":"Kollection",
+    "summary":"NFT Marketplace",
+    "description":"NFT Marketplace for Koinos",
+    "url":"https://kollection.app",
+    "tags":["nft"]
+}

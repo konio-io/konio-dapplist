@@ -1,0 +1,9 @@
+{
+    "id":"planetkoinos",
+    "icon":"https://dapps.konio.io/logos/planetkoinos.png",
+    "name":"Planet Koinos",
+    "summary":"directory",
+    "description":"A Koinos directory",
+    "url":"https://planetkoinos.com/",
+    "tags":["directory"]
+}

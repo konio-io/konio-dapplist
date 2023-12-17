@@ -1,0 +1,9 @@
+{
+    "id":"raffles",
+    "icon":"https://dapps.konio.io/logos/raffles.png",
+    "name":"Koinos Raffles",
+    "summary":"NFT Raffles",
+    "description":"NFT Marketplace and raffles platform of the koinos blockchain.",
+    "tags":["gaming"],
+    "url":"https://dapp.koinosraffles.io/"
+}

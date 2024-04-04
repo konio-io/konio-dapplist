@@ -1,0 +1,9 @@
+{
+    "id":"koinosgarden",
+    "icon":"https://dapps.konio.io/logos/koinosgarden.png",
+    "name":"Koinos Garden",
+    "summary":"Investment DAO",
+    "description":"Koinos Garden is a collection of 1000 unique Goat NFTs coexisting on the Koinos blockchain granting access to an investment DAO.",
+    "tags":["dao"],
+    "url":"https://dapp.koinosgarden.com/"
+}

@@ -1,0 +1,9 @@
+{
+    "id":"koincrew",
+    "icon":"https://dapps.konio.io/logos/koincrew.png",
+    "name":"Koin Crew",
+    "summary":"Utility & Games",
+    "description":"The Koin Crew Command Center provides resources and gasification for Koinos developers and users",
+    "url":"https://app.koincrew.com",
+    "tags":["games"]
+}
